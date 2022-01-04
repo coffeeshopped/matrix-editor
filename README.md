@@ -10,7 +10,7 @@ Download all of the included files, and make sure you keep them in the same dire
 
 ## Usage
 
-Once you have Max installed, open the file matrix-editor.maxpat to run the editor. To configure your MIDI settings within the editor you need to double-click the "midiin" and "midiiout" boxes on the right side of the editor. When double-clicked, each box will show a list of available MIDI ports for you to select from, to communicate with your Matrix synthesizer.
+Once you have Max installed, open the file matrix-editor.maxpat to run the editor. To configure your MIDI settings within the editor you need to double-click the "midiin" and "midiout" boxes on the right side of the editor. When double-clicked, each box will show a list of available MIDI ports for you to select from, to communicate with your Matrix synthesizer.
 
 To get the current patch from your synthesizer loaded into the editor, click the "get current patch" button on the right side of the screen.
 
